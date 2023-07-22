@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongon84&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gongon84&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **gongon84/gongon84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
